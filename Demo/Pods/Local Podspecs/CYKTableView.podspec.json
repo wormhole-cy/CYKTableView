@@ -1,0 +1,26 @@
+{
+  "name": "CYKTableView",
+  "version": "0.0.1",
+  "summary": "UITableView的便捷用法",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wormhole-cy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenyuekai": "630568109@qq.com"
+  },
+  "source": {
+    "git": "git@github.com:wormhole-cy/CYKTableView.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "source_files": "CYKTableView/*.{h,m}"
+}

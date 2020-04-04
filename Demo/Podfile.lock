@@ -1,0 +1,16 @@
+PODS:
+  - CYKTableView (0.0.1)
+
+DEPENDENCIES:
+  - CYKTableView (from `../CYKTableView.podspec`)
+
+EXTERNAL SOURCES:
+  CYKTableView:
+    :path: "../CYKTableView.podspec"
+
+SPEC CHECKSUMS:
+  CYKTableView: 767514a7d8ec7cf1d13819e2afb46cd0d295c20d
+
+PODFILE CHECKSUM: 471f69bca7da5d4f10afb41f2df03689f4e444a0
+
+COCOAPODS: 1.9.0
